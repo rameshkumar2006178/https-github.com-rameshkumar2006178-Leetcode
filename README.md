@@ -9,10 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/rameshkumar2006178/https-github.com-rameshkumar2006178-Leetcode/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/rameshkumar2006178/https-github.com-rameshkumar2006178-Leetcode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/rameshkumar2006178/https-github.com-rameshkumar2006178-Leetcode/tree/master/0042-trapping-rain-water) |
+| [0047-permutations-ii](https://github.com/rameshkumar2006178/https-github.com-rameshkumar2006178-Leetcode/tree/master/0047-permutations-ii) |
 ## Backtracking
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/rameshkumar2006178/https-github.com-rameshkumar2006178-Leetcode/tree/master/0039-combination-sum) |
+| [0047-permutations-ii](https://github.com/rameshkumar2006178/https-github.com-rameshkumar2006178-Leetcode/tree/master/0047-permutations-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rameshkumar2006178/https-github.com-rameshkumar2006178-Leetcode/tree/master/0042-trapping-rain-water) |
+## Sorting
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/rameshkumar2006178/https-github.com-rameshkumar2006178-Leetcode/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
