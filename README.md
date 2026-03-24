@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/rameshkumar2006178/https-github.com-rameshkumar2006178-Leetcode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/rameshkumar2006178/https-github.com-rameshkumar2006178-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0047-permutations-ii](https://github.com/rameshkumar2006178/https-github.com-rameshkumar2006178-Leetcode/tree/master/0047-permutations-ii) |
+| [0200-number-of-islands](https://github.com/rameshkumar2006178/https-github.com-rameshkumar2006178-Leetcode/tree/master/0200-number-of-islands) |
 ## Backtracking
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/rameshkumar2006178/https-github.com-rameshkumar2006178-Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rameshkumar2006178/https-github.com-rameshkumar2006178-Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/rameshkumar2006178/https-github.com-rameshkumar2006178-Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/rameshkumar2006178/https-github.com-rameshkumar2006178-Leetcode/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rameshkumar2006178/https-github.com-rameshkumar2006178-Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Binary Tree
 |  |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/rameshkumar2006178/https-github.com-rameshkumar2006178-Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/rameshkumar2006178/https-github.com-rameshkumar2006178-Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/rameshkumar2006178/https-github.com-rameshkumar2006178-Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/rameshkumar2006178/https-github.com-rameshkumar2006178-Leetcode/tree/master/0200-number-of-islands) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -119,4 +122,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/rameshkumar2006178/https-github.com-rameshkumar2006178-Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/rameshkumar2006178/https-github.com-rameshkumar2006178-Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/rameshkumar2006178/https-github.com-rameshkumar2006178-Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/rameshkumar2006178/https-github.com-rameshkumar2006178-Leetcode/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/rameshkumar2006178/https-github.com-rameshkumar2006178-Leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
