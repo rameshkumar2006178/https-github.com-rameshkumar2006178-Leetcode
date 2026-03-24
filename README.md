@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/rameshkumar2006178/https-github.com-rameshkumar2006178-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0047-permutations-ii](https://github.com/rameshkumar2006178/https-github.com-rameshkumar2006178-Leetcode/tree/master/0047-permutations-ii) |
 | [0200-number-of-islands](https://github.com/rameshkumar2006178/https-github.com-rameshkumar2006178-Leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/rameshkumar2006178/https-github.com-rameshkumar2006178-Leetcode/tree/master/0695-max-area-of-island) |
 ## Backtracking
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/rameshkumar2006178/https-github.com-rameshkumar2006178-Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/rameshkumar2006178/https-github.com-rameshkumar2006178-Leetcode/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rameshkumar2006178/https-github.com-rameshkumar2006178-Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0695-max-area-of-island](https://github.com/rameshkumar2006178/https-github.com-rameshkumar2006178-Leetcode/tree/master/0695-max-area-of-island) |
 ## Binary Tree
 |  |
 | ------- |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/rameshkumar2006178/https-github.com-rameshkumar2006178-Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/rameshkumar2006178/https-github.com-rameshkumar2006178-Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/rameshkumar2006178/https-github.com-rameshkumar2006178-Leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/rameshkumar2006178/https-github.com-rameshkumar2006178-Leetcode/tree/master/0695-max-area-of-island) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -126,8 +129,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/rameshkumar2006178/https-github.com-rameshkumar2006178-Leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/rameshkumar2006178/https-github.com-rameshkumar2006178-Leetcode/tree/master/0695-max-area-of-island) |
 ## Matrix
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/rameshkumar2006178/https-github.com-rameshkumar2006178-Leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/rameshkumar2006178/https-github.com-rameshkumar2006178-Leetcode/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
