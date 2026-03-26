@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/rameshkumar2006178/https-github.com-rameshkumar2006178-Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/rameshkumar2006178/https-github.com-rameshkumar2006178-Leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/rameshkumar2006178/https-github.com-rameshkumar2006178-Leetcode/tree/master/0994-rotting-oranges) |
+| [2101-detonate-the-maximum-bombs](https://github.com/rameshkumar2006178/https-github.com-rameshkumar2006178-Leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 ## Backtracking
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rameshkumar2006178/https-github.com-rameshkumar2006178-Leetcode/tree/master/0002-add-two-numbers) |
+| [2101-detonate-the-maximum-bombs](https://github.com/rameshkumar2006178/https-github.com-rameshkumar2006178-Leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 ## Recursion
 |  |
 | ------- |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rameshkumar2006178/https-github.com-rameshkumar2006178-Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0695-max-area-of-island](https://github.com/rameshkumar2006178/https-github.com-rameshkumar2006178-Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/rameshkumar2006178/https-github.com-rameshkumar2006178-Leetcode/tree/master/0733-flood-fill) |
+| [2101-detonate-the-maximum-bombs](https://github.com/rameshkumar2006178/https-github.com-rameshkumar2006178-Leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 ## Binary Tree
 |  |
 | ------- |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/rameshkumar2006178/https-github.com-rameshkumar2006178-Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/rameshkumar2006178/https-github.com-rameshkumar2006178-Leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/rameshkumar2006178/https-github.com-rameshkumar2006178-Leetcode/tree/master/0994-rotting-oranges) |
+| [2101-detonate-the-maximum-bombs](https://github.com/rameshkumar2006178/https-github.com-rameshkumar2006178-Leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -151,9 +155,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/rameshkumar2006178/https-github.com-rameshkumar2006178-Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/rameshkumar2006178/https-github.com-rameshkumar2006178-Leetcode/tree/master/0210-course-schedule-ii) |
+| [2101-detonate-the-maximum-bombs](https://github.com/rameshkumar2006178/https-github.com-rameshkumar2006178-Leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/rameshkumar2006178/https-github.com-rameshkumar2006178-Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/rameshkumar2006178/https-github.com-rameshkumar2006178-Leetcode/tree/master/0210-course-schedule-ii) |
+## Geometry
+|  |
+| ------- |
+| [2101-detonate-the-maximum-bombs](https://github.com/rameshkumar2006178/https-github.com-rameshkumar2006178-Leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 <!---LeetCode Topics End-->
