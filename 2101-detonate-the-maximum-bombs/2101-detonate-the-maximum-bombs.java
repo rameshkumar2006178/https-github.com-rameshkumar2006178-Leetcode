@@ -2,7 +2,7 @@ import java.util.*;
 
 class Solution {
 
-    private int dfs(int node, List<List<Integer>> adj, boolean[] visited) {
+    public int dfs(int node, List<List<Integer>> adj, boolean[] visited) {
         visited[node] = true;
         int count = 1;
         for (int neighbor : adj.get(node)) {
