@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rameshkumar2006178/https-github.com-rameshkumar2006178-Leetcode/tree/master/0042-trapping-rain-water) |
+| [0516-longest-palindromic-subsequence](https://github.com/rameshkumar2006178/https-github.com-rameshkumar2006178-Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/rameshkumar2006178/https-github.com-rameshkumar2006178-Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1143-longest-common-subsequence](https://github.com/rameshkumar2006178/https-github.com-rameshkumar2006178-Leetcode/tree/master/1143-longest-common-subsequence) |
 ## Stack
@@ -184,5 +185,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0516-longest-palindromic-subsequence](https://github.com/rameshkumar2006178/https-github.com-rameshkumar2006178-Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/rameshkumar2006178/https-github.com-rameshkumar2006178-Leetcode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
