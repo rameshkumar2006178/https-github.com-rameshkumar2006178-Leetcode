@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/rameshkumar2006178/https-github.com-rameshkumar2006178-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0047-permutations-ii](https://github.com/rameshkumar2006178/https-github.com-rameshkumar2006178-Leetcode/tree/master/0047-permutations-ii) |
 | [0200-number-of-islands](https://github.com/rameshkumar2006178/https-github.com-rameshkumar2006178-Leetcode/tree/master/0200-number-of-islands) |
+| [0300-longest-increasing-subsequence](https://github.com/rameshkumar2006178/https-github.com-rameshkumar2006178-Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0695-max-area-of-island](https://github.com/rameshkumar2006178/https-github.com-rameshkumar2006178-Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/rameshkumar2006178/https-github.com-rameshkumar2006178-Leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/rameshkumar2006178/https-github.com-rameshkumar2006178-Leetcode/tree/master/0994-rotting-oranges) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rameshkumar2006178/https-github.com-rameshkumar2006178-Leetcode/tree/master/0042-trapping-rain-water) |
+| [0300-longest-increasing-subsequence](https://github.com/rameshkumar2006178/https-github.com-rameshkumar2006178-Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/rameshkumar2006178/https-github.com-rameshkumar2006178-Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/rameshkumar2006178/https-github.com-rameshkumar2006178-Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1143-longest-common-subsequence](https://github.com/rameshkumar2006178/https-github.com-rameshkumar2006178-Leetcode/tree/master/1143-longest-common-subsequence) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/rameshkumar2006178/https-github.com-rameshkumar2006178-Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rameshkumar2006178/https-github.com-rameshkumar2006178-Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0300-longest-increasing-subsequence](https://github.com/rameshkumar2006178/https-github.com-rameshkumar2006178-Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0450-delete-node-in-a-bst](https://github.com/rameshkumar2006178/https-github.com-rameshkumar2006178-Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/rameshkumar2006178/https-github.com-rameshkumar2006178-Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/rameshkumar2006178/https-github.com-rameshkumar2006178-Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
